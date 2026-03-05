@@ -13,7 +13,6 @@ I enjoy building IoT projects, embedded systems, and electronics prototypes.
 * Embedded C
 * Arduino
 * ESP8266 / ESP32
-* STM32
 * IoT Systems
 * Hardware Debugging
 

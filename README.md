@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I’m Shivnarayan, an Embedded Systems and Hardware Developer from India.
+I’m Sivnarayan, an Embedded Systems and Hardware Developer from India.
 
 I enjoy building IoT projects, embedded systems, and electronics prototypes.
 
